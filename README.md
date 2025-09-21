@@ -1,15 +1,6 @@
-<!-- Banner -->
-<p align="center">
-  <img src="banner_img.png" alt="Bharath H M Banner" width="1200" height="600"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Bharath H M</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
-<!-- Better coding animation -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=braintobytes&label=Profile%20views&color=0e75b6&style=flat" alt="braintobytes" /> </p>
 
 - 🌱 I’m currently learning **Java, Web-Development, System Design.**
