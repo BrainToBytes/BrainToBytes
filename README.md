@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bharathshaiva985@gmail.com**
 
-- 📄 View my **Resume** [here](https://drive.google.com/drive/folders/1GXPBeC7cq2vYhO0eMpW9wO_YL6GzpQ0u)
+- 📄 View my **Resume** [here]([https://drive.google.com/drive/folders/1GXPBeC7cq2vYhO0eMpW9wO_YL6GzpQ0u](https://drive.google.com/file/d/1tbn0-_qzZyKxh-FOWSJlReeT0nX0aF7C/view))
 
 - ⚡ Fun fact **I'm funny🤞**
 
